@@ -1,4 +1,29 @@
-![Investment Overview](https://raw.githubusercontent.com/JDM95aus/Self-sustaining-solar-food-synthesiser-/main/Images/Screenshot_20250922_043347_Chrome.jpg)
+The $1.25M Deal: Sign the Paperwork, Get the Keys.
+
+The R&D is done. The blueprint for the Open Source Terracore food synthesizer is public, manufacturing-ready, and represents a trillion-dollar shift in food security.
+
+The legal architecture is solid. The commercial license is written.
+
+I am not looking for meetings. I am not building a deck to beg for a check. I am looking for one partner.
+
+The Deal:
+
+1. You send a simple, one-page agreement granting a $1.25 million investment for a commercial license and 10% of all profits in perpetuity.
+2. I sign it.
+3. You transfer the funds.
+4. I immediately hire the team, secure the lab, and begin building the first commercial units. The 12-month clock to first revenue starts the moment the funds hit the account.
+
+This capital is not for R&D. It is for execution. It covers 12 months of an elite 4-person team, a professional lab, and the creation of the first batch of commercial prototypes.
+
+This post is the entire due diligence process. The technical proof is on the GitHub. The strategic rationale is in the dossier. My track record of delivering 2 years of R&D in 2 months is your guarantee of execution.
+
+If you have the authority to write a check and the vision to understand that this is the most leveraged bet you will ever make, the process is this simple.
+
+The first person to send the paperwork gets the deal.
+
+Comment: "I will send the paperwork." and I will DM you.
+
+#DeepTech #FoodTech #VentureCapital #SovereignWealth #OpenSource #Hardware #VC #AngelInvestor #Disruption #TermSheet
 
 
 We are not selling a product; we are selling the exclusive commercial right to service the $8.8 Trillion demand-side value created by the free, global, zero-waste utility that the world is building for us at zero cost.
