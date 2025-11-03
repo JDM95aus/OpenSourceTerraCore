@@ -2,7 +2,7 @@
 
 ## 1. Executive Summary
 
-The Terracore Thermal Core is a standalone, hermetically sealed thermal regulation module that provides laboratory-grade temperature stability (±0.5°C) in harsh, off-grid environments. It solves the critical challenge of precision thermal management where grid power is unavailable or unreliable, using a biomass gasifier as its primary ruggedized heat source. This technology is a foundational platform for applications in remote medical storage, scientific processes, and advanced field-deployable manufacturing, beginning with the Open-Source Terracore Food Synthesizer.
+The OpenSourceTerracore Thermal Core is a standalone, hermetically sealed thermal regulation module that provides laboratory-grade temperature stability (±0.5°C) in harsh, off-grid environments. It solves the critical challenge of precision thermal management where grid power is unavailable or unreliable, using a biomass gasifier as its primary ruggedized heat source. This technology is a foundational platform for applications in remote medical storage, scientific processes, and advanced field-deployable manufacturing, beginning with the Open-Source Terracore Food Synthesizer.
 
 ## 2. The Core Innovation: Isolated Precision
 
