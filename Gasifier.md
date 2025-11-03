@@ -1184,8 +1184,6 @@ STARTUP SEQUENCE:
 5. Adjust air flow until clean gasification achieved
 6. Bring to operating temperature (32.5°C)
 
-[DIAGRAM: Temperature profile during startup]
-
 
 Shakedown Testing
 
@@ -1269,7 +1267,6 @@ Project: "Hermes" Precision Thermal Regulator
 
 Purpose: To tame a gasifier's variable heat output to a stable ±0.5°C for processes like the Terracore food synthesizer.
 
----
 
 1. The Physical Build: Backyard Engineering
 
@@ -1314,7 +1311,6 @@ How it Works Physically:
 4. The T2 Sensor measures the final temperature going to the process.
 5. Based on T2's reading, the software adjusts the mixing valve to add more hot or cold water to maintain the exact setpoint.
 
----
 
 2. The Software & Control Logic: Open Source Terracore
 
