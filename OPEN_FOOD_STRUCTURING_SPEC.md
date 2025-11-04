@@ -235,7 +235,13 @@ Open-Source Hardware:
 · Sensor specifications from multiple vendors
 · No single-source dependencies
 
-Legal Notice
+8.4 Structural Freedom Declaration
+The textural properties of food—such as chewiness, springiness, and fibrousness—are fundamental sensory experiences, not inventions.
+
+· Un-patentable Concepts: This specification asserts that the use of shear forces, pH shifts, or thermal cycles to create pleasant food textures are natural phenomena applied through obvious means, and are therefore un-patentable.
+· Defensive Publishing Mission: The explicit purpose of this document is to create such overwhelming prior art in the public domain that no entity can claim exclusive rights over the basic physical process of making plant proteins taste good.
+
+9.0 Legal Notice
 
 This specification and all contained methodologies, formulations, device designs, and process parameters are dedicated to the public domain under CC0 1.0 Universal. Implementation of this specification provides complete freedom from patent claims related to food structuring technologies, including but not limited to mycelial scaffolding patents.
 
