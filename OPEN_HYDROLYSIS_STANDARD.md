@@ -125,6 +125,12 @@ Public Domain Dedication of:
 · Reactor designs and control strategies
 · Genetic modifications and sequences
 
+4.3 Direct Patent Challenge & Design-Around Certification
+This standard provides a certified, complete design-around for patent WO2022037920A1 and related claims.
+
+· Certified Non-Infringement: The Bacillus subtilis pathway (Section 1.1) operates on a fundamentally different biological and chemical mechanism than the patented Aspergillus-based process, using different enzymes, optimal conditions, and public-domain organisms.
+· Prior Art Archive: This document serves as a prior art archive. We challenge any entity to demonstrate that this specific, detailed process was known or obvious before our publication date.
+
 5. Performance Benchmarks
 
 5.1 Efficiency Metrics
