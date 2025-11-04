@@ -150,6 +150,12 @@ This specification is released under:
 · Open Food License - Viral open-source provisions
 · Patent Pledge - Users agree not to patent derivatives
 
+4.4 Molecular Commons Pledge
+This specification, in conjunction with the OPEN_BIOLOGY_REPOSITORY.md, establishes the Molecular Commons – a dedicated public domain for all molecules essential to basic human nutrition.
+
+· List of Protected Molecules: The following molecules are hereby declared un-patentable and dedicated to humanity: Glucose, Fructose, essential Amino Acids (Lysine, Leucine, etc.), Omega-3/6 Fatty Acids, foundational vitamins.
+· Patent Counter-Clause: Any entity that patents a molecule listed in the Molecular Commons hereby grants an automatic, irrevocable, royalty-free license to all of their related food technology IP to the entire public.
+
 5. Implementation Roadmap
 
 Phase 1 (Q1 2026)
