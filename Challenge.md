@@ -18,10 +18,10 @@ If your organization has a foundational R&D problem—a genuine dead-end in phys
 
 **Outcomes:**
 - **I see no path:** The assessment ends. You have lost nothing, and your secrets remain protected.
-- **I see a clear solution:** We then negotiate a single, project-based fee for its execution.
+- **I see a clear solution:** saving you massive R&D resource costs and potentially unlocking new development paths, if **you like my work we can then discuss a possible future advisement position. 
 
-This is a trial of capability. The 20,000+ lines of architecture in this repository, built alone, are my credential.
+This is a trial of capability. The 20,000+ lines of architecture in this repository, built alone, are my credentials.
 
-This offer is made from a position of intellectual curiosity.
+This offer is made from a position of intellectual boredom. you have nothing to lose.
 
 **opensourceterracore@gmail.com**
