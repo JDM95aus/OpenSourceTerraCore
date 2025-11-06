@@ -1,4 +1,4 @@
-# Open Source TerraCore
+# Project OpenSourceTerraCore
 
 **Democratizing Post-Scarcity through Open-Source Technology**
 
@@ -10,7 +10,7 @@ A future where life's essentials are not commodities, but accessible utilities. 
 
 ## 🔧 The Technology
 
-The TerraCore TC-1 integrates three core systems into a single, cohesive unit:
+The P.O.S.T Food Synthesizer integrates three core systems into a single, cohesive unit:
 
 - **🗲 Gasifier:** Converts biomass and waste plastics into usable syngas.
 - **🖨️ 3D Printer:** Uses the syngas and novel mycelium-based cartridges to print objects and structures.
