@@ -87,3 +87,21 @@ The question is no longer *"Why aren't they building it?"*
 The question is now: *"How much more of my life will I let them take before we build it ourselves?"*
 
 This is not a cost we must accept. It is a bill we can present, and a debt we can cancel, by taking the blueprint into our own hands.
+
+### The Arithmetic of Malice
+
+# *Some may call this ignorance. That is a charitable lie.*
+
+The executives, lobbyists, and policymakers blocking this future are not stupid. They are not unaware. They have teams of analysts who have shown them these exact blueprints.
+
+Their inaction is not a failure to understand the technology. It is a clear, calculated understanding of its implications. They have run the numbers. They know that a world of food abundance is incompatible with a economy of artificial scarcity. They have chosen their side in that equation.
+
+· Every dollar of their record profits is a variable in the equation they have solved for.
+· Every million spent on lobbying against sustainable solutions is a term in that calculation.
+· Every life lost to hunger is a decimal point they have rounded down to zero.
+
+# *This is not ignorance. It is a cold, precise, and profitable arithmetic. It is the math of malice.*
+
+When you see their inaction, do not see confusion. See the result of a calculated decision. They have chosen their profits over our future. They have chosen their power over our plates.
+
+## The blueprint is their final exam And they have publicly, proudly, failed.
