@@ -25,7 +25,10 @@ This repository contains the complete, manufacturing-ready blueprint for the P.O
 - **Firmware & Control Software**
 - **Assembly Guides**
 
+## The core technical blueprint for the post-scarcity transition is the P.O.S.T. Food Synthesizer.
 
+· P.O.S.T.-FoodSynthesizer.md - The complete architectural and operational specification.
+· Validation.md - The framework for testing, verifying, and certifying the system.
 
 ## 🛠️ For Engineers & Makers
 
