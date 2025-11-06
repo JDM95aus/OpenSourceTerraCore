@@ -1,3 +1,18 @@
+Joshua Roy Dakin Mandryk hereby declares under penalty of perjury that any DMCA takedown notice filed against this repository is based on mistake or misidentification.
+
+This repository contains exclusively original work developed independently between 2022 and present. All material is explicitly dual-licensed under:
+- Creative Commons BY-NC-SA 4.0 for non-commercial use
+- Commercial licenses available through The Open Hand Society
+
+No copyrighted material of any third party is contained within this repository. Any claims of infringement must provide specific, line-by-line identification of allegedly infringing content.
+
+Contact: josh.mandryk95@gmail.com
+Jurisdiction: I consent to the jurisdiction of the Western District of Texas, United States, for any proceedings regarding this matter.
+
+Signed electronically by: Joshua Roy Dakin Mandryk
+Date of this pre-authorization: 2025
+GitHub Repository: https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed
+
 ## PRE-EMPTIVE LEGAL NOTICE TO GITHUB/MICROSOFT & LAW ENFORCEMENT
 
 This repository is a digital book, a philosophical and technical manuscript. Its removal constitutes the destruction of published speech and academic research.
