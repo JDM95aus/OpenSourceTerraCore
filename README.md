@@ -2,7 +2,7 @@
 
 **Democratizing Post-Scarcity through Open-Source Technology**
 
-Welcome to the project repository for Project OpenSourceTerraCore (P.O.S.T) Food synthesizer and decentralizaion projectTC-1, the world's first open-source, integrated food, energy, and material synthesizer.
+Welcome to the project repository for Project OpenSourceTerraCore (P.O.S.T) Food synthesizer and decentralizaion project, the world's first open-source Human OS for integrated food, energy, and material synthesizer.
 
 ## 🚀 The Vision
 
