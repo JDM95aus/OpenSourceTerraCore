@@ -55,11 +55,11 @@ The theoretical work is complete. The practical work begins now. This is a call 
 
 ## DIRECT LINKS:
 
-[List of Negatively Impacted Industries](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed/blob/main/CorperatePlaybook/WhyThisProjectWillBeShutDown.md)
+**[List of Negatively Impacted Industries](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed/blob/main/CorperatePlaybook/WhyThisProjectWillBeShutDown.md)**
 
-[Company Assistance - Free R&D Solutions](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed/blob/main/Challenge.md)
+**[Read The Choice - Why Inaction Now Equals Complicity](TheChoice.md)**
 
-[Hot Climate Oyster Mushroom Cultivation Guide](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed/blob/main/Free-to-use_designs/Hot_Climate_Cultivation.md)
+**[Hot Climate Oyster Mushroom Cultivation Guide](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed/blob/main/Free-to-use_designs/Hot_Climate_Cultivation.md)**
 
 
 
