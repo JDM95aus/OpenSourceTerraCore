@@ -4,7 +4,7 @@
 
 ### The Facts Are Simple
 
-The blueprints to build a machine that turns trash into food are available right now, for free, in this repository.
+The blueprints to build a machine that turns mushrooms into meals are available right now, for free, in this repository.
 
 # This isn't a theory. 
 It's a set of instructions. The P.O.S.T. Food Synthesizer works. It can end the technological 
