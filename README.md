@@ -43,7 +43,6 @@ This work is dual-licensed:
 - **Open Source:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) for personal, educational, and humanitarian use.
 - **Commercial:** Available for negotiation to prevent proprietary lock-in of this foundational technology.
 
----
 
 ## **An Invitation to Builders**
 
@@ -51,4 +50,4 @@ The theoretical work is complete. The practical work begins now. This is a call 
 
 **Let's build it together.**
 
-— Joshua Mandryk, Systems Architect
+— Joshua Roy Dakin Mandryk, Systems Architect
