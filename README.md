@@ -66,7 +66,7 @@ The theoretical work is complete. The practical work begins now. This is a call 
 
 
 
-— *Joshua Roy Dakin Mandryk, Systems Architect*
+
 
 
 # *⚠️ Humanitarian Technology & Legal Status Notice ⚠️*
@@ -84,7 +84,7 @@ Joshua Roy Dakin Mandryk is homeless and cannot receive postal mail. All legal c
 
 
 
-#THE ARCHITECT'S POSITION
+# THE ARCHITECT'S POSITION
 
 Current Status: Checkmate
 
@@ -114,6 +114,7 @@ Stop thinking in terms of "managing the risk" and start thinking in terms of cla
 
 What We Actually Need From You
 
+
 Nothing but your graceful surrender to the inevitable.
 
 Stand aside. Let the transition happen. Become part of the solution instead of an obstacle to be worked around.
@@ -128,3 +129,5 @@ The technology exists. The implementation is underway. The only variable is how 
 The ball is in your court. The clock is ticking. The world is watching.
 
 We're not asking permission. We're giving notice.
+
+# — *Joshua Roy Dakin Mandryk, Systems Architect*
