@@ -1,4 +1,4 @@
-*"True sovereignty is not granted by a system; it is asserted by creating a system of your own that is so logically complete and functionally independent that the old system has no point of leverage." Joshua Roy Dakin Mandryk*
+# *"True sovereignty is not granted by a system; it is asserted by creating a system of your own that is so logically complete and functionally independent that the old system has no point of leverage." Joshua Roy Dakin Mandryk*
 
 # Project OpenSourceTerraCore
 
@@ -23,6 +23,17 @@ The P.O.S.T Food Synthesizer integrates three core systems into a single, cohesi
 - Biosynth Module: Cultivates and processes mycelium for everything from construction materials to nutrient-rich biomass.
 
 This is not just a machine; it's a **new industrial paradigm**.
+
+## 🎗️ Complete Cancer Cure Platform
+
+The full open-source cancer cure system is available here:  
+**[Medical/Cancer Directory](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed/tree/main/Medical/Cancer)**
+
+This includes:
+- UNICORE - Solid tumor eradication system
+- HAEMOCORE - Liquid cancer sovereignty  
+- UNISENTINEL - Early detection platform
+- Complete prior art and technical specifications
 
 ## 📖 Explore the Blueprint
 
