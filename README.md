@@ -3,6 +3,7 @@ Written by Joshua Roy Dakin Mandryk
 
 # Project OpenSourceTerraCore
 
+This project is my gift to humanity. You are free to use, study, and build upon it for any non-commercial purpose. You are forbidden from using it for commercial exploitation or profit. These are the terms. By using this work, you agree to them.
 
 **Bringing Post-Scarcity through Open-Source Technology**
 
