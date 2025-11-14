@@ -162,4 +162,24 @@ Any use of this work by a for-profit entity,as defined above, requires a separat
 
 Failure to secure a commercial license for a use that falls under these definitions constitutes a breach of this license and statutory copyright infringement.
 
+LIABILITY TRANSFER AND ASSUMPTION OF RISK
+
+1. MANDATORY ASSUMPTION OF LIABILITY. Any individual, entity, or organization (hereinafter "The Builder") that accesses, utilizes, modifies, or implements the designs, code, schematics, or any other information (hereinafter "The Blueprints") contained within this repository expressly agrees to the following:
+
+The Builder, and solely The Builder, assumes ALL liability, responsibility, and risk associated with any and all actions stemming from The Blueprints. This includes, but is not limited to:
+
+· Construction, testing, deployment, or use of any physical or software system.
+· Any resulting personal injury, bodily harm, or death.
+· Any resulting property damage, financial loss, or legal damages.
+· Any violation of local, national, or international laws, regulations, or safety standards.
+· The safety, efficacy, and performance of any implemented system.
+
+2. COMPLETE RELEASE OF LIABILITY. The creator(s) of The Blueprints, including but not limited to Joshua Roy Dakin Mandryk and any contributors to the Project OpenSource Terracore (hereinafter "The Creator"), shall be held harmless and are explicitly not liable for any claims, demands, lawsuits, or damages of any kind, whether known or unknown, suspected or unsuspected, disclosed or undisclosed, arising from or in any way connected with The Blueprints.
+
+3. NO WARRANTIES AND "AS-IS" PROVISION. The Blueprints are provided "AS IS" without any warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, non-infringement, or safety. The entire risk as to the quality, performance, and safety of any implementation of The Blueprints lies entirely with The Builder.
+
+4. LEGAL AND REGULATORY COMPLIANCE. It is the sole responsibility of The Builder to ensure that any action taken based on The Blueprints complies with all applicable laws, regulations, and ethical standards in their jurisdiction. This includes, but is not limited to, medical device regulations, building codes, environmental protections, and biosafety protocols. The Creator provides no assurance or guidance on legal compliance.
+
+5. ACKNOWLEDGEMENT. By reading, accessing, cloning, or in any other way using The Blueprints, The Builder automatically and irrevocably acknowledges they have read, understood, and agreed to be legally bound by these terms. If The Builder does not agree to these terms, their only recourse is to immediately cease all use of The Blueprints and destroy all copies.
+
 Creative Commons may be contacted at creativecommons.org
